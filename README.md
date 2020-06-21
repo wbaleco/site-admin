@@ -1,4 +1,4 @@
-## *Comandos utilizados*
+## Comandos utilizados
 
 # node -v
 
