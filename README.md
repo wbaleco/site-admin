@@ -1,1 +1,6 @@
-## *Comandos utilizados*
+# Comandos utilizados
+
+## npm install -g nodemon
+
+
+
