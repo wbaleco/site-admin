@@ -5,6 +5,8 @@ const handlebars = require('express-handlebars');
 const bodyParser = require('body-parser');
 const app = express();
 
+const home = require('./routes/home');
+
 
 //Configuração
 
@@ -12,6 +14,9 @@ const app = express();
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+
+//Rotas
+app.get('/home', home);
 
 
 //Iniciando servidor

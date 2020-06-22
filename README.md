@@ -8,6 +8,9 @@
 ## Criar arquivo package.json 
 ### comando: *npm init*
 
+## Instalar nodemon - Atualizar projeto automáticamente
+### comando: *npm install -g nodemon* 
+
 ## Instalar express - Gerenciador de rotas e urls
 ### comando: *npm install express --save* 
 
