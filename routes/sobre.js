@@ -7,7 +7,7 @@ router.get('/', (req, res) => {
 })
 
 router.get('/edit-sobre', (req, res) => {
-    res.render("sobre/edit-sobre")
+    res.render("sobre/edit-sobre", {layout: 'adm.handlebars'})
 })
 
 module.exports = router
