@@ -23,3 +23,7 @@
 # Gitpod
 
 ## *https://dcca0824-8f1f-4491-9dac-b3dc6b932b0a.ws-us02.gitpod.io/*
+
+## Endereço repositório git
+
+### *git remote add origin https://github.com/wbaleco/site-admin.git*
